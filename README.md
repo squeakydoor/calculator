@@ -21,4 +21,4 @@ Need to find a best route for your trip? Look no further.
 ````
 3 - Run the program with 5 arguments: < path to json > < start avenue > < start street > < end avenue > < end street >
 
-Example: ```sbt run sample-data.json A 1 B 1```
+Example: ```sbt "run sample-data.json A 1 B 1"```
